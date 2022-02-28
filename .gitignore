@@ -1,1 +1,7 @@
 new-file.txt
+
+bin/
+
+*.temp
+
+*.log
